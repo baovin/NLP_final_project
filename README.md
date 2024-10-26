@@ -1,6 +1,4 @@
 
-Architecture:
-![image](./model.jpg)
 ## Requirements
 ```
 python==3.11.3
